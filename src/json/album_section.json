@@ -1,0 +1,60 @@
+[{
+   "title": "Popular Books",
+   "horizontal": true,
+   "data": [
+      {
+         "title": "Fashionopolis",
+         "artist": "Dana Thomas",
+         "starDisplay": false,
+         "star": 2,
+         "image": "https://github.com/olivialin21/RN-wk3/blob/main/src/images/img_book_fashinopolis.png?raw=true",
+         "description": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion."
+      },
+      {
+         "title": "Chanel",
+         "artist": "Patrick Mauriès",
+         "starDisplay": false,
+         "star": 4,
+         "image": "https://github.com/olivialin21/RN-wk3/blob/main/src/images/img_book_chanel.png?raw=true",
+         "description": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion."
+      },
+      {
+         "title": "Calligraphy",
+         "artist": "June & Lucy",
+         "starDisplay": false,
+         "star": 3,
+         "image": "https://github.com/olivialin21/RN-wk3/blob/main/src/images/img_book_calligraphy.png?raw=true",
+         "description": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion."
+      }
+   ]
+},{
+   "title": "Newest",
+   "horizontal": true,
+   "data": [
+      {
+         "title": "Yves Saint Laurent",
+         "artist": "Suzy Menkes",
+         "starDisplay": true,
+         "star": 4,
+         "image": "https://github.com/olivialin21/RN-wk3/blob/main/src/images/img_book_ysl.png?raw=true",
+         "description": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion."
+      },
+      {
+         "title": "The Book of Signs",
+         "artist": "Rudolf Koch",
+         "starDisplay": true,
+         "star": 3,
+         "image": "https://github.com/olivialin21/RN-wk3/blob/main/src/images/img_book_tbos.png?raw=true",
+         "description": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion."
+      },
+      {
+         "title": "Stitched Up",
+         "artist": "Tansy E. Hoskins",
+         "starDisplay": true,
+         "star": 3,
+         "image": "https://github.com/olivialin21/RN-wk3/blob/main/src/images/img_book_stitchedup.png?raw=true",
+         "description": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion."
+      }
+   ]
+}
+]
