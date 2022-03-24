@@ -1,10 +1,18 @@
 import React from "react";
-import { Center } from "native-base";
+import { StyleSheet, Text } from "react-native";
 
 const WishlistScreen = ({ navigation }) => {
   return (
-    <Center flex={1}>Wishlist</Center>
+    <Text style={styles.mybookTitle}>Wishlist</Text>
   );
 };
+
+const styles = StyleSheet.create({
+  mybookTitle: {
+    textAlign: "center",
+    fontSize: 36,
+    fontWeight: "bold"
+  }
+})
 
 export default WishlistScreen;

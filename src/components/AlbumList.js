@@ -4,23 +4,6 @@ import HotAlbumDetail from "./HotAlbumDetail";
 import sections from "../json/album_section.json"
 
 const AlbumList = ({ navigation }) => {
-  // const renderSectionHeader = ({section}) => {
-  //   <>
-  //     <Text style={styles.sectionHeader}>
-  //       {section.title}
-  //     </Text>
-  //     {section.horizontal ? (
-
-  //     ) : null}
-  //   </>
-  // }
-  // const renderItem = ({ item, section }) => {
-  //   if (section.horizontal){
-  //     return null;
-  //   }
-  //   // return <AlbumDetail album={item} navigation={navigation} />
-  // };
-
   return (
     <View style={styles.section}>
       <Text style={styles.sectionHeader}>

@@ -8,9 +8,6 @@ import { Image, Input, HStack, Text, Pressable } from 'native-base';
 
 import AlbumScreen from '../screens/AlbumScreen';
 import DetailScreen from '../screens/DetailScreen';
-import SettingsScreen from '../screens/SettingsScreen';
-import DisplaySettingScreen from '../screens/DisplaySettingScreen';
-import AccountScreen from '../screens/AccountScreen';
 import WishlistScreen from '../screens/WishlistScreen';
 import MyBooksScreen from '../screens/MyBooksScreen';
 import MyTheme from '../Theme';

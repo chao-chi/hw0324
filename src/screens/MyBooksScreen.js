@@ -1,10 +1,18 @@
 import React from "react";
-import { Center } from "native-base";
+import { StyleSheet, Text } from "react-native";
 
 const MyBooksScreen = ({ navigation }) => {
   return (
-    <Center flex={1}>My Books</Center>
+    <Text style={styles.mybookTitle}>My Books</Text>
   );
 };
+
+const styles = StyleSheet.create({
+  mybookTitle: {
+    textAlign: "center",
+    fontSize: 36,
+    fontWeight: "bold"
+  }
+})
 
 export default MyBooksScreen;
